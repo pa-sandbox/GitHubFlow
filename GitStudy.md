@@ -22,3 +22,7 @@ sec-test
 ## Section Sudo
 
 ## Section Yamashiro
+```diff
+-ESXi上からアンマウントするとサーバが落ちる。
++ESXi上からアンマウントするとサーバが落ちる。誰か対策法を教えてほしいです
+```
