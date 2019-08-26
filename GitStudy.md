@@ -11,6 +11,7 @@
 ## Section Yagi
 
 ## Section Abe
+🐈🐶🐑🐐🍶🍻
 
 ## Section Yoshiba
 吉羽ブランチに書き込みました。
