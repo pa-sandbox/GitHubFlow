@@ -17,5 +17,6 @@
 ## Section Okawa
 
 ## Section Sudo
+**山羊舌**
 
 ## Section Yamashiro
