@@ -15,6 +15,8 @@
 ## Section Yoshiba
 
 ## Section Okawa
+koya-okawa
+sec-test
 
 ## Section Sudo
 
