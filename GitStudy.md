@@ -45,3 +45,7 @@ add WSL
 ## 10月のファンファンドは
 
 スカイツリー
+
+* testB
+* testB
+* testB
