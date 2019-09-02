@@ -20,6 +20,7 @@
 ## Section Yoshiba
 
 吉羽ブランチに書き込みました。
+9月6日に決定しました！
 
 ## Section Okawa
 
